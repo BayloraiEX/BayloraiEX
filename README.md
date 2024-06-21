@@ -1,5 +1,7 @@
 ## Hi there 👋
-- 👨‍💻 I'm currently working on bd-tacojob
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BayloraiEX)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **BayloraiEX/BayloraiEX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
