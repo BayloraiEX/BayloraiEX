@@ -1,5 +1,5 @@
 ## BAYLORAI DEVELOPMENT                            
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BayloraiEX&show_icons=true&theme=cobalt)
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=BayloraiEX)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 
 ## BECOME A SUPPORTER
